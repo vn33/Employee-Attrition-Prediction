@@ -24,6 +24,24 @@ The project involves thorough data analysis to identify patterns and trends rela
 - **WorkLifeBalance vs Attrition:** Poor work-life balance is correlated with higher attrition rates.
 - and so on
 
+## Model Performance
+
+### Logistic Regression:
+
+- **Accuracy:** 90.89%
+- **F1-score (Class 1):** 90.57%
+- **Precision (Class 1):** 93.91%
+- **Recall (Class 1):** 87.45%
+- **AUC (Class 1):** 96.12%
+
+## Feature Importance
+
+- **OverTime_Yes:** Employees who work overtime are more likely to leave the company.
+- **YearsAtCompany:** Longer tenure at the company does not guarantee retention, and employees with more years at the company are also more likely to leave.
+- **NumCompaniesWorked:** Employees who have worked for more companies in the past are more likely to leave, indicating a potential pattern of job hopping.
+- **DistanceFromHome:** Employees who live farther away from the workplace are more likely to leave, possibly due to commuting issues or a desire for a better work-life balance.
+- **YearsSinceLastPromotion:** Employees who have not received a promotion in a long time are more likely to leave, indicating a potential dissatisfaction with career advancement opportunities.
+
 ## Conclusion
 
 Based on the analysis, several factors are identified as significant contributors to employee attrition. These insights can inform HR policies and strategies to improve employee retention and organizational performance.
@@ -33,11 +51,4 @@ Based on the analysis, several factors are identified as significant contributor
 1. Clone the repository.
 2. Install the required dependencies.
 3. Run the Jupyter notebooks to execute the analysis and build predictive models.
-
-In future updates, the project will include:
-
-- **Model Building:** Developing predictive models using machine learning algorithms to forecast employee attrition.
-- **Feature Engineering:** Creating new features and transforming existing ones to improve model performance.
-- **Data Preprocessing:** Cleaning and preprocessing the data to prepare it for modeling.
-
 
