@@ -52,3 +52,14 @@ Based on the analysis, several factors are identified as significant contributor
 2. Install the required dependencies.
 3. Run the Jupyter notebooks to execute the analysis and build predictive models.
 
+## Reports
+
+For detailed insights and analysis, you can access the following reports:
+
+- [**HR Analytics Research Report**](https://github.com/vn33/HR-Analytics-Attrition-Prediction-Project/blob/master/HR_Analytics_Report.pdf): Provides in-depth analysis of the dataset and key findings.
+- [**Project Presentation**](https://github.com/vn33/HR-Analytics-Attrition-Prediction-Project/blob/master/EMP_ATTRITION_PPT_REPORT_VishalNaik.pdf): Summarizes the project objectives, methodology, and results.
+- [**Final Conclusion Report**](https://github.com/vn33/HR-Analytics-Attrition-Prediction-Project/blob/master/final%20conclusion.pdf): Offers a comprehensive overview of the project findings, conclusions, and recommendations.
+
+Feel free to reach out to me if you would like to view any of these reports.
+
+
